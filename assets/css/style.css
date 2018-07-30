@@ -1,0 +1,65 @@
+nav {
+  text-align: center;
+  color: yellow;
+  font-weight: bold;
+}
+
+h1 {
+  margin: auto;
+  color: purple;
+}
+
+h2 {
+  color: green;
+}
+
+h3 {
+  margin: auto;
+  text-align: center;
+  color:orange;
+
+}
+
+.label.input.radio-inline1.optradio1{
+
+  color: white;
+}
+
+p{
+  color: red;
+  }
+
+.input.radio-inline8{
+  color: black;
+}
+
+body {
+  background-image: url("https://previews.123rf.com/images/macrovector/macrovector1602/macrovector160200124/51757292-soccer-game-match-goal-moment-with-ball-in-the-net-black-white-picture-vector-illustration.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  background: transparent;
+  text-align: center;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+form {
+  margin: 0 auto;
+  text-align: center;
+}
+
+section {
+  margin-top: 20px;
+}
+
+button {
+  width: 300px;
+}
+.questionScreen, .endScreen, .scoreboard, .timer-display {
+display: none;
+  /* padding: 0px 0px 30px 30px; */
+}
